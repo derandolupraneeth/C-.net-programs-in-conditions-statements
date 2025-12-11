@@ -1,7 +1,0 @@
-X:\Dotnet\All-types-programs\All-types-programs\bin\Debug\All-types-programs.exe.config
-X:\Dotnet\All-types-programs\All-types-programs\bin\Debug\All-types-programs.exe
-X:\Dotnet\All-types-programs\All-types-programs\bin\Debug\All-types-programs.pdb
-X:\Dotnet\All-types-programs\All-types-programs\obj\Debug\All-types-programs.csproj.AssemblyReference.cache
-X:\Dotnet\All-types-programs\All-types-programs\obj\Debug\All-types-programs.csproj.CoreCompileInputs.cache
-X:\Dotnet\All-types-programs\All-types-programs\obj\Debug\All-types-programs.exe
-X:\Dotnet\All-types-programs\All-types-programs\obj\Debug\All-types-programs.pdb
